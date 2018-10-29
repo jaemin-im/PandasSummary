@@ -1,4 +1,4 @@
-# Unit 2 Summary
+# Unit 2 Summary - 판다스 시작하기
 
 * pandas: 데이터 분석/시각화 등을 돕는 라이브러리 (import pandas as pd)
 * pd.read_csv: tsv/csv 파일을 DataFrame 클래스로 불러오는 메소드
